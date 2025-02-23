@@ -1,6 +1,6 @@
 ---
-# # Display name
-# title: Brunda Raghavendra Purohit
+# Display name
+title: Brunda Raghavendra Purohit
 
 # # Name pronunciation (optional)
 # name_pronunciation: Brunda Raghavendra Purohit
