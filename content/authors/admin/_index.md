@@ -2,8 +2,8 @@
 # Display name
 title: Brunda Raghavendra Purohit
 
-# # Name pronunciation (optional)
-# name_pronunciation: Brunda Raghavendra Purohit
+# Name pronunciation (optional)
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Brunda Raghavendra 
